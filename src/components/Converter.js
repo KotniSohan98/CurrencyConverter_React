@@ -118,7 +118,7 @@ const Converter = () => {
               </select>
             </div>
           </div>
-          <i className="fa-solid fa-arrow-right-arrow-left"></i>
+          <i class="fa-solid fa-arrow-right-arrow-left"></i>
           <div className="from">
             <p>To</p>
             <div className="select-container">
